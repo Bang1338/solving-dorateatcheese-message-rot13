@@ -158,7 +158,7 @@ else cout<<s[i];
 
 ## The end...?
 * After done a while, I already have [nightmare on number 13](https://en.wikipedia.org/wiki/Triskaidekaphobia).
-* When I played CyberChef a while, I found out ROT13. I was thinking: `oh man not number 13...`, I drag it and...
+* When I played CyberChef a while, I found out [ROT13](https://en.wikipedia.org/wiki/ROT13). I was thinking: `oh man not number 13...`, I drag it and...
 <p align="left"> 
   <kbd>
 <img src="https://user-images.githubusercontent.com/75790567/213098317-e80915f0-23ce-44b8-83b0-0acaa211600a.png">
