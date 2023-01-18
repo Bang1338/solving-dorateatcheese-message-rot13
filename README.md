@@ -75,7 +75,7 @@ If we take `z` for example, the ASCII code is `122`, if we using `+13` this will
 
 So, we have to use `-13` instead.
 * Note: If UPPERCASE CHAR, the range must be `65 (A)` to `90 (Z)`. if lowercase char, the range must be `97 (a)` to `122 (z)`. Or else it won't be working.
-I fully solved in Notepad (i wanted to do it on Excel, but lazy).
+I fully solved in [Notepad](https://github.com/Bang1338/solving-dorateatcheese-message-rot13/blob/main/solving%20rats%20puzzle.txt) (i wanted to do it on Excel, but lazy).
 
 <p align="left"> 
   <kbd>
@@ -83,7 +83,7 @@ I fully solved in Notepad (i wanted to do it on Excel, but lazy).
   </kbd>
 </p>
 
-Later I coded C++ code to solve the Dorateatcheese puzzle. You can check it.
+Later I coded C++ code to solve the Dorateatcheese puzzle. You can check [here](https://github.com/Bang1338/solving-dorateatcheese-message-rot13/blob/main/main.cpp).
 
 ## Process making C++ code
 Since i'm too lazy to do it by hand, I've to do it in C++
