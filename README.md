@@ -9,7 +9,7 @@ Solving Dorateatcheese's message (ROT13)
 </p>
 
 <h3 align="center">
-Me when i don't know that this is ROT13, but this will be helpful if you're trying to cracking ROT13 :)
+I hate number 13.
 </h3>
 
 ## Story
