@@ -64,7 +64,6 @@ And continue, we have:
 
 This have a lot of number `13` (i hate that number), so the offset is `+13` and `-13`
 * Third, I try with other character, however...
-* 
 If we take `z` for example, the ASCII code is `122`, if we using `+13` this will go to other one.
 
 <p align="left"> 
