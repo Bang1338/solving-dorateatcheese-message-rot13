@@ -1,0 +1,34 @@
+Uryyb thlf jung'f hc?
+
+=============================+
+MAGIC:                       +
+jung'f => what's / that's    +
+=============================+
+
+No.| Encoded | ASCII reference | Dcd + O |            Comment 
+===|=========|=================|=========|===============================
+1  | U       | 85  - 13 = 72   | H   11  | 3. Two letter "y" in pos
+2  | r       | 114 - 13 = 101  | e       | 3 and 4, and the first letter
+3  | y       | 121 - 13 = 108  | l       | is "H", so the magic is:
+4  | y       | 121 - 13 = 108  | l       | "Hello"
+5  | b       |  98 + 13 = 111  | o       |
+6  |         | B A K S P A C E |         |
+7  | t       | 116 - 13 = 103  | g    7  | 2. We have to find the
+8  | h       | 104 + 13 = 117  | u    8  | perfect character in
+9  | l       | 108 + 13 = 121  | y    9  | ASCII table, so we can able
+10 | f       | 102 + 13 = 115  | s   10  | to decode the message.
+11 |         | B A K S P A C E |         |
+12 | j       | 106 + 13 = 119  | w    1  | 1. Magic found:
+13 | u       | 117 - 13 = 104  | h    2  | using offset +13 and -13
+14 | n       | 110 - 13 =  97  | a    3  | we'll find the message.
+15 | g       | 103 + 13 = 110  | t    4  |
+16 | '       | N O T   U S E D | '    5  |
+17 | f       | 102 + 13 = 115  | s    6  |
+18 |         | B A K S P A C E |         |
+19 | h       | 104 + 13 = 117  | u       | 4. The rest is: "up?"
+20 | c       |  99 + 13 = 112  | p       | SOLVED! but i have to 
+21 | ?       | N O T   U S E D | ?       | complete ASCII reference :v
+===|=========|=================|=========|===============================
+Decoded message is: Hello guys what's up?
+
+
